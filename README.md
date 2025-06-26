@@ -1,6 +1,6 @@
 # Stevens Blueprint Summer Developer Challenge 2025
 
-This is the template for the Stevens Blueprint summer developer challenge. **Fork** (do not clone) this repository and send the link to your repository to @brandonyen on Discord.
+This is the template for the Stevens Blueprint summer developer challenge.
 
 There are two parts to this challenge:
 
